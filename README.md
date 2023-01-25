@@ -31,7 +31,7 @@ I'm a self-taught web and app developer who experiments with design. I love maki
 
    ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
    
-- **Softwares and Tools**:
+- **Software and Tools**:
 
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -47,8 +47,9 @@ I'm a self-taught web and app developer who experiments with design. I love maki
 
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
-<h1><iframe src="https://giphy.com/embed/9A4VXopO66WMraBtss" width="25" height="25" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> Stats</h1>
+<h1><img src="img/stat-bars.gif" width="25" height="25"> Stats</h1>
 <div align="center">
+  
 [![Neal Chambers's GitHub stats](https://github-readme-stats.vercel.app/api?username=macanudo527)](https://github.com/anuraghazr/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macanudo527&hide=html)](https://github.com/anuraghazra/github-readme-stats)
