@@ -13,7 +13,6 @@
 I'm a self-taught web and app developer who experiments with design. I love making easy to use tools that make mundane tasks automatic and stress-free. I also enjoy making the occasional animation or explainer video.
 <br><br>
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h1>
-<br>
 
 - **Languages**:
 
