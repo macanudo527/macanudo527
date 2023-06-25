@@ -12,12 +12,119 @@
 </p>
 I'm a self-taught web and app developer who experiments with design. I love making easy to use tools that make mundane tasks automatic and stress-free. I also enjoy making the occasional animation or explainer video.
 <br><br>
+私は独学でウェブとアプリの開発を学び、デザインの実験をしています。ありふれた作業を自動化し、ストレスフリーにする使いやすいツールを作るのが大好きです。たまにアニメーションや説明ビデオを作るのも好きです。
+<br>
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h1>
 
 - **Languages**:
 
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-   
+
+   <details>
+     <summary>Click here for Ruby on Rails Details / Ruby on Railsの詳細はここをクリック</summary>
+     <br>
+
+     **Open Food Network (OFN)**:
+     ***
+
+     **Fix RuboCop violations in the site's code / サイトのコードベースに対するRuboCop違反の解消**
+     - **Summary / 概要**
+       
+        Fixed RuboCop errors in the online marketplace, improved code quality, maintainability, and adherence to coding best practices.
+
+       このプロジェクトでは、オンラインマーケットプレイスにおけるRuboCopのエラーに焦点を当て、コードの品質、保守性、コーディングのベストプラクティスの遵守を改善することを目的としています。
+
+     - **Lessons Learned / 注力したポイント**
+ 
+         Learned about the code linting process and how to properly rebase and commit cleanly. Also learned the importance of making incremental changes that are easily reviewable and to listen to feedback from peers.
+
+       コードリンティングのプロセスについて学び、適切なリベースとクリーンなコミットの方法を習得しました。また、容易にレビュー可能な段階的な変更を行うことの重要性や、同僚からのフィードバックを聞き入れることも学びました。
+
+     - **Environment and Languages / 環境・言語**
+
+        Ruby, Rubocop, javascript, Docker
+
+     - **Scale and Number of People / 規模・人数**
+ 
+         Core Developers - 13 / 中核開発者: 13人
+       　Contributors - 207 / 貢献者: 207人
+
+     **Bug Fix: Record Deletion Issue on Permission Revocation / バグ修正: パーミッション剥奪時にレコードの削除が必要な問題**
+     - **Summary / 概要**
+       
+        Identified and resolved a bug related to the improper deletion of product availability when permissions were revoked.
+
+       権限が取り消された際に製品の利用可能性が正しく削除されないバグを特定し、解決しました。
+
+     - **Lessons Learned / 注力したポイント**
+ 
+         Developed expertise in bug tracking and debugging techniques through the use of binding.pry() and isolating rspec tests. Acquired proficiency in interacting with PostgreSQL databases and implemented robust Rspec tests to ensure regression prevention.
+
+       binding.pry()の使用とRspecテストの分離により、バグ追跡とデバッグ技術に関する専門知識を習得した。PostgreSQLデータベースとの対話に習熟し、回帰を防ぐために堅牢なRspecテストを実装した。
+
+     - **Environment and Languages / 環境・言語**
+
+        Ruby, Rubocop, PostgreSQL, javascript, Docker
+
+     - **Scale and Number of People / 規模・人数**
+ 
+         Core Developers - 13 / 中核開発者: 13人
+       　Contributors - 207 / 貢献者: 207人    
+
+   </details> 
+   <details>
+     <summary>Click here for Python Details / Pythonの詳細はここをクリック</summary>
+     <br>
+
+     **RP2 and Dali-RP2**:
+     ***
+
+     **Implement a pricing plugin for crypto assets / 暗号資産用の価格設定プラグインを実装**
+     - **Summary / 概要**
+       
+        Developed and implemented a self-optimizing pricing plugin for crypto assets, enabling accurate pricing even in the absence of a direct fiat market. Utilized a Dijkstra search algorithm to efficiently determine optimal asset pricing.
+
+       暗号資産の自己最適化価格設定プラグインを開発・実装し、直接の不換紙幣市場がない場合でも正確な価格設定を可能にした。ダイクストラのアルゴリズムを活用し、最適な資産価格を効率的に決定。
+
+     - **Lessons Learned / 注力したポイント**
+ 
+         Learned and applied the Dijkstra algorithm in a practical scenario, demonstrating proficiency in algorithm implementation. Constructed a comprehensive test suite using generated data to rigorously evaluate the functionality and accuracy of the algorithm.
+
+       Dijkstraアルゴリズムを学び、実践的なシナリオで適用し、アルゴリズムの実装に習熟した。生成されたデータを用いて包括的なテストスイートを構築し、アルゴリズムの機能と精度を厳格に評価した。
+
+     - **Environment and Languages / 環境・言語**
+
+        Python, Pytest
+
+     - **Scale and Number of People / 規模・人数**
+ 
+         Core Developers - 2 / 中核開発者: 2人
+       　Contributors - 13 / 貢献者: 13人
+
+     **Bug Fix: Record Deletion Issue on Permission Revocation / バグ修正: パーミッション剥奪時にレコードの削除が必要な問題**
+     - **Summary / 概要**
+       
+        Identified and resolved a bug related to the improper deletion of product availability when permissions were revoked.
+
+       権限が取り消された際に製品の利用可能性が正しく削除されないバグを特定し、解決しました。
+
+     - **Lessons Learned / 注力したポイント**
+ 
+         Developed expertise in bug tracking and debugging techniques through the use of binding.pry() and isolating rspec tests. Acquired proficiency in interacting with PostgreSQL databases and implemented robust Rspec tests to ensure regression prevention.
+
+       binding.pry()の使用とRspecテストの分離により、バグ追跡とデバッグ技術に関する専門知識を習得した。PostgreSQLデータベースとの対話に習熟し、回帰を防ぐために堅牢なRspecテストを実装した。
+
+     - **Environment and Languages / 環境・言語**
+
+        Ruby, Rubocop, PostgreSQL, javascript, Docker
+
+     - **Scale and Number of People / 規模・人数**
+ 
+         Core Developers - 13 / 中核開発者: 13人
+       　Contributors - 207 / 貢献者: 207人    
+
+   </details> 
+
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
