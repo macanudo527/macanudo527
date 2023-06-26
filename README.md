@@ -79,7 +79,7 @@ I'm a self-taught web and app developer who experiments with design. I love maki
      **RP2 and Dali-RP2**:
      ***
 
-     **Implement a pricing plugin for crypto assets / 暗号資産用の価格設定プラグインを実装**
+     **Implemented a pricing plugin for crypto assets / 暗号資産用の価格設定プラグインを実装**
      - **Summary / 概要**
        
         Developed and implemented a self-optimizing pricing plugin for crypto assets, enabling accurate pricing even in the absence of a direct fiat market. Utilized a Dijkstra search algorithm to efficiently determine optimal asset pricing.
@@ -101,27 +101,49 @@ I'm a self-taught web and app developer who experiments with design. I love maki
          Core Developers - 2 / 中核開発者: 2人
        　Contributors - 13 / 貢献者: 13人
 
-     **Bug Fix: Record Deletion Issue on Permission Revocation / バグ修正: パーミッション剥奪時にレコードの削除が必要な問題**
+     **Implemented a Binance.com REST API plugin / Binance.com REST APIプラグインの実装**
      - **Summary / 概要**
        
-        Identified and resolved a bug related to the improper deletion of product availability when permissions were revoked.
+        Developed and implemented a powerful plugin utilizing the Binance.com REST API to retrieve and process comprehensive transaction data for users on the exchange. Designed the plugin to efficiently capture various types of transactions, such as spot trades, mining income, and staking income, providing a comprehensive overview of user activities. Recognizing the potential of this implementation, extended the plugin to serve as the foundation for an abstract plugin, enabling compatibility with other exchanges through the CCXT framework.
 
-       権限が取り消された際に製品の利用可能性が正しく削除されないバグを特定し、解決しました。
+       Binance.comのREST APIを利用し、取引所のユーザーの包括的な取引データを取得・処理する強力なプラグインを開発・実装した。スポット取引、マイニング収入、ステーキング収入など、様々な種類の取引を効率的に取得できるようにプラグインを設計しました。プラグインを拡張して抽象的なプラグインの基礎とし、CCXTフレームワークを通じて他の取引所を簡単に追加できるようにしました。
 
      - **Lessons Learned / 注力したポイント**
  
-         Developed expertise in bug tracking and debugging techniques through the use of binding.pry() and isolating rspec tests. Acquired proficiency in interacting with PostgreSQL databases and implemented robust Rspec tests to ensure regression prevention.
+         Acquired expertise in retrieving and sanitizing data from REST APIs, ensuring a robust and reliable approach to data extraction. Learned how to transform the resulting plugin into a versatile abstract class, providing a reusable framework for developing plugins tailored to different exchanges. By expanding the capabilities of Dali-rp2 through this abstract class, facilitated seamless integration with various exchanges, enhancing the versatility and scalability of the platform.
 
-       binding.pry()の使用とRspecテストの分離により、バグ追跡とデバッグ技術に関する専門知識を習得した。PostgreSQLデータベースとの対話に習熟し、回帰を防ぐために堅牢なRspecテストを実装した。
+       REST APIからのデータ取得とサニタイズに関する専門知識を習得し、データ抽出の堅牢性と信頼性を確保した。プラグインを汎用性の高い抽象クラスに変換し、さまざまな取引所に対応したプラグインを開発するための再利用可能なフレームワークを提供する。
 
      - **Environment and Languages / 環境・言語**
 
-        Ruby, Rubocop, PostgreSQL, javascript, Docker
+        Python, Pytest
 
      - **Scale and Number of People / 規模・人数**
  
-         Core Developers - 13 / 中核開発者: 13人
-       　Contributors - 207 / 貢献者: 207人    
+         Core Developers - 2 / 中核開発者: 2人
+       　Contributors - 13 / 貢献者: 13人
+  
+     **Implemented Japanese tax reporting for crypto assets / 暗号資産に対する日本の税務報告書を実装する**
+     - **Summary / 概要**
+       
+        Developed an innovative plugin that efficiently sorts and organizes raw crypto asset transaction data to generate comprehensive tax reports specifically tailored for users in Japan. The plugin compiles yearly summaries of all assets and accurately calculates the cost basis for each transaction, ensuring compliance with tax regulations. By automating the complex process of tax reporting, the plugin simplifies the filing of crypto asset taxes, saving users valuable time and ensuring accuracy in their tax filings.
+
+       暗号資産の取引データを効率的に分類・整理し、日本のユーザー向けにカスタマイズされた包括的な税務レポートを作成する革新的なプラグインを開発しました。このプラグインは、すべての資産の年間サマリーを綿密にまとめ、各取引のコストベースを正確に計算することで、税制の遵守を保証します。 
+
+     - **Lessons Learned / 注力したポイント**
+ 
+         Acquired proficiency in utilizing Python to manipulate and analyze spreadsheet data, including the implementation of formulas and formatting techniques. Learned to leverage Python's capabilities to efficiently organize and sort large volumes of transactional data, comprising thousands of entries, into a concise and user-friendly report.
+
+       Pythonを活用し、数式や書式設定テクニックの実装を含め、表計算データの操作と分析に習熟。Pythonの機能を活用し、何千もの項目からなる大量の取引データを効率的に整理・分類し、簡潔で使いやすいレポートにまとめた。
+
+     - **Environment and Languages / 環境・言語**
+
+        Python, Pytest
+
+     - **Scale and Number of People / 規模・人数**
+ 
+         Core Developers - 2 / 中核開発者: 2人
+       　Contributors - 13 / 貢献者: 13人   
 
    </details> 
 
