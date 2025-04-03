@@ -24,6 +24,30 @@ I'm a self-taught web and app developer who experiments with design. I love maki
      <summary>Click here for Ruby on Rails Details / Ruby on Railsの詳細はここをクリック</summary>
      <br>
 
+    **Marathon Tracking App**:
+    ***
+
+    **Built Backend API for Flutter App **
+    - **Summary / 概要**
+
+        Developed a marathon tracking API using Ruby on Rails serving as the backend API, implementing RESTful endpoints, user authentication, and performance categorization features based on race results.
+
+         バックエンドAPIとしてRuby on Railsを使用し、RESTfulエンドポイント、ユーザー認証、レース結果に基づくパフォーマンス分類機能を実装したマラソン・トラッキングAPIを開発。
+    
+     - **Lessons Learned / 注力したポイント**
+
+        How to render paths from GPS data, process GPS data from runners' smartwatches, build processes to automatically clean storage of old files, and write rigorous tests in Rspec.
+
+        GPSデータからパスをレンダリングし、ランナーのスマートウォッチからGPSデータを処理し、古いファイルのストレージを自動的にクリーンアップするプロセスを構築し、Rspecで厳格なテストを書く方法。
+
+     - **Environment and Languages / 環境・言語**
+
+        Ruby, Rspec, AWS, javascript, Docker
+
+     - **Scale and Number of People / 規模・人数**
+
+        Core Developers - 10 / 中核開発者: 10人
+
      **Open Food Network (OFN)**:
      ***
 
