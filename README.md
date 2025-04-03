@@ -27,7 +27,7 @@ I'm a self-taught web and app developer who experiments with design. I love maki
     **Marathon Tracking App**:
     ***
 
-    **Built Backend API for Flutter App **
+    **Built Backend API for Flutter App**
     - **Summary / 概要**
 
         Developed a marathon tracking API using Ruby on Rails serving as the backend API, implementing RESTful endpoints, user authentication, and performance categorization features based on race results.
