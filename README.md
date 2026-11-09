@@ -202,9 +202,9 @@ I'm a self-taught web and app developer who experiments with design. I love maki
 <h1><img src="img/stat-bars.gif" width="25" height="25"> Stats</h1>
 <div align="center">
   
-[![Neal Chambers's GitHub stats](https://github-readme-stats.vercel.app/api?username=macanudo527)](https://github.com/anuraghazr/github-readme-stats) 
+[![Neal Chambers's GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macanudo527&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
